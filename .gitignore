@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+
+.vs/
+Debug/
+CS_121_Project_3_DJN/Debug/
